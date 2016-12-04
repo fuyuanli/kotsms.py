@@ -54,5 +54,4 @@ sms = kotsms()
 sms.login(USERNAME, PASSWORD)
 sms.sendMsg(PHONE, MESSAGE)
 ```
-
-![](http://i.imgur.com/glFEm3D.png)
+<img src="http://i.imgur.com/glFEm3D.png" height="600"/>
