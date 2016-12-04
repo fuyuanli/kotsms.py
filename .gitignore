@@ -1,4 +1,7 @@
 *.pyc
 __pycache__
 env
-kotsms.log
+.pypirc
+dist
+MANIFEST
+setup.cfg  setup.py
